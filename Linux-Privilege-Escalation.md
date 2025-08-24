@@ -13,7 +13,7 @@ This lab demonstrates **Linux privilege escalation techniques** including sudo, 
 - Successfully gained **root privileges** on the system.  
 - Retrieved flags as proof of exploitation.
 
-![Linux Privilege Escalation Screenshot](Linux%20Privilege%20Escalation2.PNG)
+![Linux Privilege Escalation Screenshot](linux-priv-esc.png)
 
 ## Remediation Advice
 - Apply **principle of least privilege**.  
