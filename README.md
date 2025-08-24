@@ -32,3 +32,9 @@ This repo is designed to showcase **penetration testing fundamentals**, includin
 - Vulnerability scanning and exploitation
 - Privilege escalation on Linux & Windows
 
+## Lab Reports
+- [Burp Suite – Intruder](Burp-Intruder.md)
+- [Metasploit – Exploitation](Metasploit-Exploitation.md)
+- [Linux Privilege Escalation](Linux-Privilege-Escalation.md)
+
+
