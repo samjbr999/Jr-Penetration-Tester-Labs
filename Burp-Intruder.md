@@ -12,7 +12,7 @@ This lab focuses on **automating requests with Burp Intruder** to perform attack
 - Burp Intruder can detect valid username/password pairs.
 - Example: Successful login attempt with **m.rivera:letmein1**.
 
-![Burp Intruder Screenshot](Burp%20SuiteIntruder.PNG)
+![Burp Intruder Screenshot](burp-intruder.png)
 
 ## Remediation Advice
 - Implement **account lockout mechanisms** after failed login attempts.
